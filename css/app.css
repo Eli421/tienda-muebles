@@ -116,7 +116,7 @@ img {
 /* Categorias*/
 
 .categorias {
-   padding-top: 5rem;
+   padding: 5rem 0;
 }
 
 .categorias h2 {
@@ -129,6 +129,7 @@ img {
    display: block;
    padding: 2rem;
    font-size: 2rem;
+   
 }
 
 .categorias a:hover {
